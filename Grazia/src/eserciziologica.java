@@ -6,6 +6,7 @@ public class eserciziologica {
 	int voto3;
 	final int ESAMI = 3;
 	int a;
+	int voto4;
 
 	
 	public eserciziologica(String nome, String cognome, int voto1, int voto2, int voto3) {
